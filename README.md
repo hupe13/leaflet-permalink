@@ -14,7 +14,7 @@ Initially based on the [work](https://github.com/MarcChasse/leaflet.Permalink) o
 
 1. Create a leaflet map. Checkout Leaflets [Quick Start Guide](http://leafletjs.com/examples/quick-start.html) for a basic map example.
 
-2. [Download](https://raw.githubusercontent.com/hupe13/leaflet.Permalink/main/leaflet.permalink.min.js) and include leaflet.permalink.min.js
+2. [Download](https://raw.githubusercontent.com/hupe13/leaflet-permalink/main/leaflet.permalink.min.js) and include leaflet.permalink.min.js
 
 ```html
 	<script src="../leaflet.permalink.min.js"></script>
@@ -33,6 +33,6 @@ Initially based on the [work](https://github.com/MarcChasse/leaflet.Permalink) o
 
 ## Complete Example
 
-see [here](https://github.com/hupe13/leaflet.Permalink/blob/main/example/index.html).
+see [here](https://github.com/hupe13/leaflet-permalink/blob/main/example/index.html).
 
-Checkout the [DEMO](https://hupe13.github.io/leaflet.Permalink/example/).
+Checkout the [DEMO](https://hupe13.github.io/leaflet-permalink/example/).
