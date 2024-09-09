@@ -36,3 +36,7 @@ Initially based on the [work](https://github.com/MarcChasse/leaflet.Permalink) o
 see [here](https://github.com/hupe13/leaflet-permalink/blob/main/example/index.html).
 
 Checkout the [DEMO](https://hupe13.github.io/leaflet-permalink/example/).
+
+## Another Example
+
+If you are using [WordPress](https://wordpress.org/) and the plugin [Leaflet Map](https://wordpress.org/plugins/leaflet-map/) there is an [example](https://leafext.de/extra/permalink/) too.
